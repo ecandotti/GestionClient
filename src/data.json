@@ -1,0 +1,30 @@
+[
+    {
+        "prenom": "Enzo",
+        "nom": "Candotti",
+        "email": "me@me.fr",
+        "compagnie": "AdeviA",
+        "notes": "voici mes notes"
+    },
+    {
+        "prenom": "Matteo",
+        "nom": "Candotti",
+        "email": "me2@me2.fr",
+        "compagnie": "Adevieux",
+        "notes": "voici mes notes"
+    },
+    {
+        "prenom": "Romeo",
+        "nom": "Candotti",
+        "email": "me3@me3.fr",
+        "compagnie": "NoCorp",
+        "notes": "voici mes notes"
+    },
+    {
+        "prenom": "Giuliano",
+        "nom": "Candotti",
+        "email": "me4@me4.fr",
+        "compagnie": "BambiInc",
+        "notes": "voici mes notes"
+    }
+]
